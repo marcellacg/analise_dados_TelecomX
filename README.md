@@ -63,7 +63,6 @@ Foram utilizados dois modelos de Machine Learning:
 📂 TelecomX-Churn
 ├── 📘 evasao_churn_TelecomX.ipynb  # Notebook com toda a análise
 ├── 📄 README.md                    # Documentação do projeto
-└── 📂 data/                        # (Opcional) Diretório para os dados brutos
 ```
 
 ---
@@ -77,14 +76,10 @@ Este projeto foi desenvolvido no **Google Colab**, então não é necessário co
 Se preferir rodar localmente:
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/TelecomX-Churn.git
-   cd TelecomX-Churn
+   git clone https://github.com/marcellacg/analise_dados_TelecomX.git
+   cd analise_dados_TelecomX
    ```
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Execute o notebook `evasao_churn_TelecomX.ipynb` em um ambiente Jupyter.
+2. Execute o notebook `evasao_churn_TelecomX.ipynb` em um ambiente Jupyter.
 
 ---
 
